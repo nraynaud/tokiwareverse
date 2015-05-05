@@ -3,7 +3,6 @@ Reverse engineering of a Tokiwa toaster oven PCB (with the aim to make a reflow 
 
 The PCB is marked GALANZ - GAL04020KX-01  Rev:1
 
-
-![alt text](oven_schem.svg?raw=true "MCU schema")
+[the schema is here](oven_schem.svg)
 
 
